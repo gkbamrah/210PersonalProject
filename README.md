@@ -1,4 +1,4 @@
-# 210PersonalProject
+# ToDoList Application
 ToDoList Application that lets you create and delete tasks, and divide them into five categories.
 
 ![](images/2020-01-08%2021_49_40-TODOLIST.png)
